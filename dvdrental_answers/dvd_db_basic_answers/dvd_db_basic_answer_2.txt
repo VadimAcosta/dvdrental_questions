@@ -1,0 +1,7 @@
+dvd_db_basic_answer_2
+
+SELECT 
+	DISTINCT (rating),
+	ROUND (AVG (replacement_cost),2) AS "average_replacement_cost"
+FROM film
+	GROUP BY 1;

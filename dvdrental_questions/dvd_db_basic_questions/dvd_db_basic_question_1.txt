@@ -1,0 +1,3 @@
+dvd_db_basic_question_1
+
+Per employee, how much revenue has each employee realized from DVD rentals, and how many transactions have each employee handled?

@@ -1,0 +1,9 @@
+dvd_db_basic_answer_4
+
+SELECT 
+	DISTINCT (customer_id),
+	SUM (amount)
+FROM payment
+	WHERE staff_id = 2
+	GROUP BY 1
+	HAVING SUM (amount) >= 110;

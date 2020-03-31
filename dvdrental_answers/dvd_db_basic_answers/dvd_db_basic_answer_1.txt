@@ -1,0 +1,9 @@
+dvd_db_basic_answer_1
+
+SELECT 
+	staff_id, 
+	sum (amount) as "total_revenue",
+	COUNT (*) as "number_of_transactions"
+FROM payment 	
+	GROUP BY 1
+	ORDER BY 1;
