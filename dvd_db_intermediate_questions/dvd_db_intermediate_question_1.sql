@@ -1,4 +1,5 @@
-dvd_db_intermediate_answer_1
+-- Find the names and the payment amounts for customers 
+-- with a lifetime purchase amount of greater than $150
 
 SELECT 
 	(customer.customer_id),

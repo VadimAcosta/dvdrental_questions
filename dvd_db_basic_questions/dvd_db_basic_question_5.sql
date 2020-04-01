@@ -1,4 +1,4 @@
-dvd_db_basic_answer_5
+-- Which store has served the most customers?
 
 SELECT 
 	store_id,

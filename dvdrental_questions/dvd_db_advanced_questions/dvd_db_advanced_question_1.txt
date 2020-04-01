@@ -1,4 +1,0 @@
-dvd_db_advanced_question_1
-
-How might you construct a query to generate a list of movies to recommend to customers 
-that they haven't rented yet,  based on the customer's favorite genres, according to their rental history?

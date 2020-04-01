@@ -1,6 +1,7 @@
-AADV1 
-Potential Solutions
- 
+-- How might you construct a query to generate a list of 
+-- movies to recommend to customers that they haven't rented yet,  
+-- based on the customer's favorite genres, according to their rental history?
+
 WITH
 rental_data AS (
     SELECT 

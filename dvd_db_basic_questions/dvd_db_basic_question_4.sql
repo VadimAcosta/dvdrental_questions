@@ -1,4 +1,5 @@
-dvd_db_basic_answer_4
+-- Return the customer IDs of customers who have 
+-- spent at least $110 with the staff member who has an ID of 2
 
 SELECT 
 	DISTINCT (customer_id),

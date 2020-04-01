@@ -1,4 +1,4 @@
-dvd_db_basic_answer_2
+-- Figure out the average replacement cost of our movies, by rating
 
 SELECT 
 	DISTINCT (rating),

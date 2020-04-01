@@ -1,4 +1,4 @@
-dvd_db_basic_answer_3
+-- Get the customer ID’s of the top 5 customers, by money spent
 
 SELECT 
 	customer_id,
